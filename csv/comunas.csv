@@ -1,0 +1,346 @@
+1;Iquique;1
+2;Alto Hospicio;1
+3;Pozo Almonte;2
+4;Camiña;2
+5;Colchane;2
+6;Huara;2
+7;Pica;2
+8;Antofagasta;3
+9;Mejillones;3
+10;Sierra Gorda;3
+11;Taltal;3
+12;Calama;4
+13;Ollague;4
+14;San Pedro de Atacama;4
+15;Tocopilla;5
+16;María Elena;5
+17;Copiapó;6
+18;Caldera;6
+19;Tierra Amarilla;6
+20;Chañaral;7
+21;Diego de Almagro;7
+22;Vallenar;8
+23;Alto del Carmen;8
+24;Freirina;8
+25;Huasco;8
+26;La Serena;9
+27;Coquimbo;9
+28;Andacollo;9
+29;La Higuera;9
+30;Paihuano;9
+31;Vicuña;9
+32;Illapel;10
+33;Canela;10
+34;Los Vilos;10
+35;Salamanca;10
+36;Ovalle;11
+37;Combarbalá;11
+38;Monte Patria;11
+39;Punitaqui;11
+40;Río Hurtado;11
+41;Valparaíso;12
+42;Casablanca;12
+43;Concón;12
+44;Juan Fernández;12
+45;Puchuncaví;12
+46;Quilpué;12
+47;Quintero;12
+48;Villa Alemana;12
+49;Viña del Mar;12
+50;Isla de Pascua;13
+51;Los Andes;14
+52;Calle Larga;14
+53;Rinconada;14
+54;San Esteban;14
+55;La Ligua;15
+56;Cabildo;15
+57;Papudo;15
+58;Petorca;15
+59;Zapallar;15
+60;Quillota;16
+61;Calera;16
+62;Hijuelas;16
+63;La Cruz;16
+64;Limache;16
+65;Nogales;16
+66;Olmué;16
+67;San Antonio;17
+68;Algarrobo;17
+69;Cartagena;17
+70;El Quisco;17
+71;El Tabo;17
+72;Santo Domingo;17
+73;San Felipe;18
+74;Catemu;18
+75;Llay Llay;18
+76;Panquehue;18
+77;Putaendo;18
+78;Santa María;18
+79;Rancagua;19
+80;Codegua;19
+81;Coinco;19
+82;Coltauco;19
+83;Doñihue;19
+84;Graneros;19
+85;Las Cabras;19
+86;Machalí;19
+87;Malloa;19
+88;Mostazal;19
+89;Olivar;19
+90;Peumo;19
+91;Pichidegua;19
+92;Quinta de Tilcoco;19
+93;Rengo;19
+94;Requinoa;19
+95;San Vicente;19
+96;Pichilemu;20
+97;La Estrella;20
+98;Litueche;20
+99;Marchihue;20
+100;Navidad;20
+101;Paredones;20
+102;San Fernando;21
+103;Chépica;21
+104;Chimbarongo;21
+105;Lolol;21
+106;Nancagua;21
+107;Palmilla;21
+108;Peralillo;21
+109;Placilla;21
+110;Pumanque;21
+111;Santa Cruz;21
+112;Talca;22
+113;Constitución;22
+114;Curepto;22
+115;Empedrado;22
+116;Maule;22
+117;Pelarco;22
+118;Pencahue;22
+119;Río Claro;22
+120;San Clemente;22
+121;San Rafael;22
+122;Cauquenes;23
+123;Chanco;23
+124;Pelluhue;23
+125;Curicó;24
+126;Hualañé;24
+127;Licantén;24
+128;Molina;24
+129;Rauco;24
+130;Romeral;24
+131;Sagrada Familia;24
+132;Teno;24
+133;Vichuquén;24
+134;Linares;25
+135;Colbún;25
+136;Longaví;25
+137;Parral;25
+138;Retiro;25
+139;San Javier;25
+140;Villa Alegre;25
+141;Yerbas Buenas;25
+142;Concepción;26
+143;Coronel;26
+144;Chiguayante;26
+145;Florida;26
+146;Hualqui;26
+147;Lota;26
+148;Penco;26
+149;San Pedro De La Paz;26
+150;Santa Juana;26
+151;Talcahuano;26
+152;Tomé;26
+153;Hualpén;26
+154;Lebu;27
+155;Arauco;27
+156;Cañete;27
+157;Contulmo;27
+158;Curanilahue;27
+159;Los Alamos;27
+160;Tirua;27
+161;Los Angeles;28
+162;Antuco;28
+163;Cabrero;28
+164;Laja;28
+165;Mulchén;28
+166;Nacimiento;28
+167;Negrete;28
+168;Quilaco;28
+169;Quilleco;28
+170;San Rosendo;28
+171;Santa Bárbara;28
+172;Tucapel;28
+173;Yumbel;28
+174;Alto Biobío;28
+175;Chillán;29
+176;Bulnes;29
+177;Cobquecura;29
+178;Coelemu;29
+179;Coihueco;29
+180;Chillán Viejo;29
+181;El Carmen;29
+182;Ninhue;29
+183;Ñiquén;29
+184;Pemuco;29
+185;Pinto;29
+186;Portezuelo;29
+187;Quillón;29
+188;Quirihue;29
+189;Ranquil;29
+190;San Carlos;29
+191;San Fabián;29
+192;San Ignacio;29
+193;San Nicolás;29
+194;Trehuaco;29
+195;Yungay;29
+196;Temuco;30
+197;Carahue;30
+198;Cunco;30
+199;Curarrehue;30
+200;Freire;30
+201;Galvarino;30
+202;Gorbea;30
+203;Lautaro;30
+204;Loncoche;30
+205;Melipeuco;30
+206;Nueva Imperial;30
+207;Padre Las Casas;30
+208;Perquenco;30
+209;Pitrufquén;30
+210;Pucón;30
+211;Saavedra;30
+212;Teodoro Schmidt;30
+213;Toltén;30
+214;Vilcún;30
+215;Villarrica;30
+216;Cholchol;30
+217;Angol;31
+218;Collipulli;31
+219;Curacautín;31
+220;Ercilla;31
+221;Lonquimay;31
+222;Los Sauces;31
+223;Lumaco;31
+224;Purén;31
+225;Renaico;31
+226;Traiguén;31
+227;Victoria;31
+228;Puerto Montt;32
+229;Calbuco;32
+230;Cochamó;32
+231;Fresia;32
+232;Frutillar;32
+233;Los Muermos;32
+234;Llanquihue;32
+235;Maullín;32
+236;Puerto Varas;32
+237;Castro;33
+238;Ancud;33
+239;Chonchi;33
+240;Curaco de Vélez;33
+241;Dalcahue;33
+242;Puqueldón;33
+243;Queilén;33
+244;Quellón;33
+245;Quemchi;33
+246;Quinchao;33
+247;Osorno;34
+248;Puerto Octay;34
+249;Purranque;34
+250;Puyehue;34
+251;Río Negro;34
+252;San Juan de la Costa;34
+253;San Pablo;34
+254;Chaitén;35
+255;Futaleufú;35
+256;Hualaihue;35
+257;Palena;35
+258;Coihaique;36
+259;Lago Verde;36
+260;Aisén;37
+261;Cisnes;37
+262;Guaitecas;37
+263;Cochrane;38
+264;Ohiggins;38
+265;Tortel;38
+266;Chile Chico;39
+267;Río Ibáñez;39
+268;Punta Arenas;40
+269;Laguna Blanca;40
+270;Río Verde;40
+271;San Gregorio;40
+272;Cabo de Hornos;41
+273;ANTÁRTICA;41
+274;Porvenir;42
+275;Primavera;42
+276;Timaukel;42
+277;Natales;43
+278;Torres del Paine;43
+279;Santiago;44
+280;Cerrillos;44
+281;Cerro Navia;44
+282;Conchalí;44
+283;El Bosque;44
+284;Estación Central;44
+285;Huechuraba;44
+286;Independencia;44
+287;La Cisterna;44
+288;La Florida;44
+289;La Granja;44
+290;La Pintana;44
+291;La Reina;44
+292;Las Condes;44
+293;Lo Barnechea;44
+294;Lo Espejo;44
+295;Lo Prado;44
+296;Macul;44
+297;Maipú;44
+298;Ñuñoa;44
+299;Pedro Aguirre Cerda;44
+300;Peñalolén;44
+301;Providencia;44
+302;Pudahuel;44
+303;Quilicura;44
+304;Quinta Normal;44
+305;Recoleta;44
+306;Renca;44
+307;San Joaquín;44
+308;San Miguel;44
+309;San Ramón;44
+310;Vitacura;44
+311;Puente Alto;45
+312;Pirque;45
+313;San José de Maipo;45
+314;Colina;46
+315;Lampa;46
+316;Til til;46
+317;San Bernardo;47
+318;Buin;47
+319;Calera de Tango;47
+320;Paine;47
+321;Melipilla;48
+322;Alhué;48
+323;Curacaví;48
+324;María Pinto;48
+325;San Pedro;48
+326;Talagante;49
+327;El Monte;49
+328;Isla de Maipo;49
+329;Padre Hurtado;49
+330;Peñaflor;49
+331;Valdivia;50
+332;Corral;50
+333;Lanco;50
+334;Los Lagos;50
+335;Máfil;50
+336;Mariquina;50
+337;Paillaco;50
+338;Panguipulli;50
+339;La Unión;51
+340;Futrono;51
+341;Lago Ranco;51
+342;Río Bueno;51
+343;Arica;52
+344;Camarones;52
+345;Putre;53
+346;General Lagos;53
